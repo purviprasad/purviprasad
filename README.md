@@ -26,28 +26,28 @@
 
 ---
 
-## ⚡ Snapshot
+## Snapshot
 
-- 🧑‍💻 5+ years building production-grade web apps  
-- ⚛️ Expert in React, TypeScript, scalable UI systems  
-- 🔧 Strong in Node.js, APIs, microservices  
-- 📈 Built finance & analytics platforms with real users  
-- 🤖 AI workflow: ChatGPT · Claude · Cursor · Antigravity  
-- 🌍 Open to Remote Senior Roles  
-
----
-
-## 🧠 What I Do Best
-
-- ⚡ Build fast, scalable, maintainable frontend systems  
-- 🧩 Design clean component architectures  
-- 📊 Handle data-heavy dashboards & real-time UI  
-- 🔍 Debug complex production issues  
-- 🚀 Ship features end-to-end with ownership  
+- **5+ years** building production-grade web apps  
+- Expert in** React, TypeScript, scalable UI systems  **
+- Strong in **Node.js, APIs, microservices**  
+- Built finance & analytics platforms with real users  
+- AI workflow: ChatGPT · Claude · Cursor · Antigravity  
+- Open to Remote Senior Roles  
 
 ---
 
-## 🛠 Tech Stack
+## What I Do Best
+
+- Build fast, scalable, maintainable frontend systems  
+- Design clean component architectures  
+- Handle data-heavy dashboards & real-time UI  
+- Debug complex production issues  
+- Ship features end-to-end with ownership  
+
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,redis,aws,docker,git" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Performance
+## GitHub Performance
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=purviprasad&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -72,22 +72,21 @@
 
 ---
 
-### 🎨 PSUI  
-Headless, themeable React component library  
-
+### PSUI  
+Headless, themeable React component library 
 → accessible UI primitives, theming, and DX-focused APIs  
 → React · TypeScript · Tailwind v4 · Radix UI  
 
 ---
 
-### 💰 PigB  
+### PigB  
 Full-stack finance platform  
 → dashboards, AI insights, analytics  
 → React · Next.js · Node · MongoDB  
 
 ---
 
-### 📊 FinMate  
+### FinMate  
 Expense tracking & planning  
 → charts, reminders, notifications  
 → React · Redux · Node · MySQL  
@@ -117,5 +116,5 @@ Expense tracking & planning
 ---
 
 <p align="center">
-  ⭐️ If you like my work, let’s connect and build something impactful.
+  If you like my work, let’s connect and build something impactful.
 </p>

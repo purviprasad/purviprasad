@@ -32,7 +32,7 @@
 - Expert in **React, TypeScript, scalable UI systems**
 - Strong in **Node.js, APIs, microservices**  
 - Built finance & analytics platforms with real users  
-- AI workflow: ChatGPT · Claude · Cursor · Antigravity  
+- AI workflow: Codex/ChatGPT · Claude · Cursor · Antigravity  
 - Open to Remote Senior Roles  
 
 ---

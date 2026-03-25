@@ -29,7 +29,7 @@
 ## Snapshot
 
 - **5+ years** building production-grade web apps  
-- Expert in** React, TypeScript, scalable UI systems  **
+- Expert in **React, TypeScript, scalable UI systems**
 - Strong in **Node.js, APIs, microservices**  
 - Built finance & analytics platforms with real users  
 - AI workflow: ChatGPT · Claude · Cursor · Antigravity  
@@ -73,7 +73,7 @@
 ---
 
 ### PSUI  
-Headless, themeable React component library 
+Headless, themeable React component library  
 → accessible UI primitives, theming, and DX-focused APIs  
 → React · TypeScript · Tailwind v4 · Radix UI  
 

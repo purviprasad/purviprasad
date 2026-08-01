@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThha293OXEzMzRja2U4cnB4a2hoNzliMmlwNm00Z3didW14eHljdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lZfODnCIHdDcm1juuR/giphy.gif" width="400"/>
-</p>
+  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThha293OXEzMzRja2U4cnB4a2hoNzliMmlwNm00Z3didW14eHljdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lZfODnCIHdDcm1juuR/giphy.gif" width="400"/>
+</p> -->
 
 ---
 
